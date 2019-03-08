@@ -40,9 +40,3 @@ My Facebok    : https://web.facebook.com/xroot.xroot.7
 
 # Regard Boychongzen aka Xroot
 
-[![ ](https://www.youtube.com/watch?v=RXQPgrIlRe4)
-
-
-
-
-
