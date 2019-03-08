@@ -1,5 +1,8 @@
 # Show Keyboard Termux
 
+# Author : Boychongzen aka Xroot
+
+
 Cara Eksekusi di Termux :
 
 pkg update & upgrade
@@ -12,9 +15,9 @@ cd ShowKeyboardTermux
 
 cat key.txt 
 
-NB : jangan lupa edit ( termux.properties ) kode key sama rata di atas okeh........
+# NB : jangan lupa edit ( termux.properties ) kode key sama rata di atas okeh........
 
-lihat gambar saya di bawah :
+# Lihat gambar saya di bawah :
 
 ![be](https://github.com/boychongzen18/ShowKeyboardTermux/blob/master/Screenshot_20190308-184451.png)
 
