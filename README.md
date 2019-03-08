@@ -40,6 +40,9 @@ My Facebok    : https://web.facebook.com/xroot.xroot.7
 
 # Regard Boychongzen aka Xroot
 
-## ✔ video tutorial :
-![be] https://youtu.be/DLTI-hOpSrE8&t=31s
+<p>https://www.youtube.com/watch?v=5eTUIHIw6Ig</p>
+<div style="text-align: center;"> </div>
+<!-- /wp:paragraph -->
+
+
 
