@@ -27,7 +27,7 @@ cat key.txt
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
-Link Tutorial : https://www.youtube.com/watch?v=9Rj7qJt7Z1Y
+Link Tutorial : https://youtu.be/DLTI-hOpSrE
 
 My Website    : http://hackingforlive.cf , https://hackingforlive.wordpress.com
 
