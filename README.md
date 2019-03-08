@@ -5,7 +5,7 @@
 
 Cara Eksekusi di Termux :
 
-pkg update & upgrade
+pkg update & upgrade -y
 
 pkg install git nano -y
 
