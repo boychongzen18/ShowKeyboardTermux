@@ -4,11 +4,9 @@ Cara Munculkan Key_Touch_Keyboard di Termux
 Volume Up+Q → Show extra keys view
 Volume Up+K → Show extra keys view
 
-pkg update && pkg upgrade
+edit via terminal :
 
-pkg install git nano
-
-cd .termux
+cd .termux 
 
 nano termux.properties
 
