@@ -25,13 +25,13 @@ cat key.txt
 
 ===============================================================================
 
-My Youtube : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
+My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
-Link Tutorial : 
+Link Tutorial : https://www.youtube.com/watch?v=9Rj7qJt7Z1Y
 
-My Website : http://hackingforlive.cf , https://hackingforlive.wordpress.com
+My Website    : http://hackingforlive.cf , https://hackingforlive.wordpress.com
 
-My Facebok : https://web.facebook.com/xroot.xroot.7
+My Facebok    : https://web.facebook.com/xroot.xroot.7
 
 ===============================================================================
 
