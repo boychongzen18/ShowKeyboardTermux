@@ -7,7 +7,7 @@ Cara Eksekusi di Termux :
 
 pkg update & upgrade -y
 
-pkg install git nano -y
+pkg install -y git nano
 
 git clone https://github.com/boychongzen18/ShowKeyboardTermux.git
 
@@ -27,7 +27,7 @@ cat key.txt
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
-Link Tutorial : https://youtu.be/DLTI-hOpSrE
+Link Tutorial : https://youtu.be/AicTgi8_RS8
 
 My Website    : http://hackingforlive.cf , https://hackingforlive.wordpress.com
 
