@@ -6,7 +6,7 @@ Volume Up+K → Show extra keys view
 
 edit via terminal :
 
-mkdir .termux/termux.properties
+mkdir .termux
 
 
 cd .termux 
