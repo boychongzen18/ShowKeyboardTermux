@@ -8,7 +8,6 @@ edit via terminal :
 
 mkdir .termux
 
-
 cd .termux 
 
 nano termux.properties
