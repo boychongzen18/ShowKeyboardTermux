@@ -6,6 +6,9 @@ Volume Up+K → Show extra keys view
 
 edit via terminal :
 
+mkdir .termux/termux.properties
+
+
 cd .termux 
 
 nano termux.properties
@@ -18,3 +21,4 @@ extra-keys =
 
 
 Regard Boychongzen aka Xroot
+
