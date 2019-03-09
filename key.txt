@@ -1,0 +1,24 @@
+Cara Munculkan Key_Touch_Keyboard di Termux
+
+
+Volume Up+Q → Show extra keys view
+Volume Up+K → Show extra keys view
+
+edit via terminal :
+
+mkdir .termux/termux.properties
+
+
+cd .termux 
+
+nano termux.properties
+
+Kode : 
+
+extra-keys = 
+[['ESC','/','-','HOME','UP','END','PGUP'],['TAB','CTRL','ALT','LEFT','DOWN','RIGHT','PGDN']]
+
+
+
+Regard Boychongzen aka Xroot
+
