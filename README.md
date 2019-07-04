@@ -5,9 +5,9 @@
 
 Cara Eksekusi di Termux :
 
-pkg update & upgrade -y
+pkg update & pkg upgrade
 
-pkg install -y git nano
+pkg install git nano
 
 git clone https://github.com/boychongzen18/ShowKeyboardTermux.git
 
